@@ -26,7 +26,7 @@ bdist_egg:
 	$(SETUP) bdist_egg
 
 install: bdist_egg
-	sudo $(SETUP) install
+	$(SETUP) install
 
 release:
 	zenity --question

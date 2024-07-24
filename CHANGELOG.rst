@@ -1,6 +1,13 @@
 Changelog
 =========
 
+0.2.2
+-----
+
+*Date: 2024-07-24*
+
+* Improved Python compatibility 3.12 because imp module is deprecated
+
 0.2.1
 -----
 
