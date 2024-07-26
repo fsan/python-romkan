@@ -1,3 +1,7 @@
+This is a fork of soimort/python-romkan to add python 3.12 support in setup file.
+
+---
+
 # python-romkan
 
 [![Build Status](https://api.travis-ci.org/soimort/python-romkan.png)](https://travis-ci.org/soimort/python-romkan) [![PyPI version](https://badge.fury.io/py/romkan.png)](http://badge.fury.io/py/romkan)
